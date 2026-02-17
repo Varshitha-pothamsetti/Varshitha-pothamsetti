@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm P Satya Varshitha</h1> 
+<h1 align="center">Hi 👋, I'm P Satya Varshitha</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ---
@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
+
 
 ---
 
