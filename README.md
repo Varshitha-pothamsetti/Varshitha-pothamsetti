@@ -31,7 +31,7 @@ I'm a passionate **Full Stack Developer from India** and a B.Tech Information Te
 I love transforming ideas into real-world solutions by combining **frontend development, backend engineering, databases, APIs, and problem-solving**.
 
 - 🎓 B.Tech in **Information Technology**
-- 📊 **CGPA: 8.99 / 10**
+- 📊 **CGPA: 8.39 / 10**
 - 💻 Full Stack Development with **React.js, Node.js, Django & MongoDB**
 - 📱 Mobile Application Development with **React Native**
 - 🔭 Currently working on **Full Stack Development**
