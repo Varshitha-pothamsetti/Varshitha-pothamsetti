@@ -1,58 +1,219 @@
-<h1 align="center">Hi 👋, I'm P. Satya Varshitha</h1>
+<div align="center">
 
-<h3 align="center">💻 Full Stack Developer | React.js | Node.js | Django | MongoDB</h3>
+# 👋 Hi, I'm P. Satya Varshitha
 
-<p align="center"> <a href="https://www.linkedin.com/in/varshitha-p-0217102a5/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://varshitha-pothamsetti.github.io/Portfolio-Website/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="mailto:pothamsettisatyavarshitha@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+### 💻 Full Stack Developer | Web & Mobile Application Developer
 
-👩‍💻 About Me
+<p>
+  <a href="https://www.linkedin.com/in/varshitha-p-0217102a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://varshitha-pothamsetti.github.io/Portfolio-Website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:pothamsettisatyavarshitha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I'm a passionate Full Stack Developer from India who enjoys building practical, scalable, and user-friendly applications.
+<img src="https://komarev.com/ghpvc/?username=varshitha-pothamsetti&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 
-🔭 Currently working on Full Stack Development
-🌱 Currently learning React Native & Next.js
-💻 Experienced with React.js, Node.js, Django & MongoDB
-👯 Open to collaborating on Web & Mobile Application projects
-💬 Ask me about JavaScript, React.js, Django & Full Stack Development
-🚀 Interested in building real-world applications and solving problems through technology
-⚡ Fun fact: I enjoy turning ideas into real-world applications 💡
-🛠️ Tech Stack
-💻 Programming Languages
+</div>
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> </p>
+---
 
-🌐 Frontend Development
+## 👩‍💻 About Me
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/> </p>
+I'm a passionate **Full Stack Developer from India** focused on building modern, responsive, and user-friendly applications.
 
-⚙️ Backend & Database
+I enjoy transforming ideas into real-world products by combining **frontend development, backend engineering, databases, and problem-solving**.
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/> </p>
+* 🔭 Currently working on **Full Stack Development**
+* 🌱 Currently learning **React Native & Next.js**
+* 💻 Experienced in **React.js, Node.js, Django & MongoDB**
+* 🚀 Interested in **Web Development & Mobile Application Development**
+* 🤝 Open to collaborating on **Web & Mobile App projects**
+* 💬 Ask me about **JavaScript, React.js, Django & Full Stack Development**
+* ⚡ I enjoy turning ideas into **real-world applications** 💡
 
-🔧 Tools & Technologies
+---
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/> </p>
+## 🧠 Technical Skills
 
-🚀 What I Build
-🌐 Web Applications
-📱 Mobile Applications
-🔐 REST APIs & Backend Systems
-🗄️ Database-Driven Applications
-⚡ Full Stack Applications
-💡 Real-World Problem Solving
-📌 Featured Projects
+### 💻 Programming Languages
 
-🚧 More projects coming soon!
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+</p>
 
-I enjoy building applications that combine clean UI, efficient backend systems, and practical functionality.
+### 🎨 Frontend Development
 
-Check out my repositories to explore my work 👇
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
 
-📊 GitHub Stats
+### ⚙️ Backend Development
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=varshitha-pothamsetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha-pothamsetti&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django" />
+</p>
 
-🤝 Let's Connect
+### 🗄️ Databases
 
-<p align="center"> <a href="https://www.linkedin.com/in/varshitha-p-0217102a5/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://varshitha-pothamsetti.github.io/Portfolio-Website/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Explore-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="mailto:pothamsettisatyavarshitha@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-<p align="center"> <i>✨ Building. Learning. Creating. Growing. ✨</i> </p>
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+| 💡 Area                | 🔧 Focus                                             |
+| ---------------------- | ---------------------------------------------------- |
+| 🌐 Web Applications    | Modern & responsive full-stack applications          |
+| 📱 Mobile Applications | Cross-platform mobile experiences                    |
+| ⚙️ Backend Systems     | REST APIs & server-side applications                 |
+| 🗄️ Database Solutions | Data-driven applications                             |
+| 🔐 API Integration     | Secure and scalable API communication                |
+| 💡 Problem Solving     | Turning real-world problems into technical solutions |
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Full Stack Web Applications
+
+Building applications using technologies such as:
+
+`React.js` `Node.js` `Django` `MongoDB` `JavaScript`
+
+### 📱 Mobile Applications
+
+Currently exploring mobile development with:
+
+`React Native`
+
+### 🚀 More Projects
+
+Check out my GitHub repositories to explore my projects, experiments, and learning journey.
+
+<div align="center">
+
+<a href="https://github.com/varshitha-pothamsetti?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=varshitha-pothamsetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha-pothamsetti&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=varshitha-pothamsetti&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshitha-pothamsetti&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=varshitha-pothamsetti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react" />
+
+</p>
+
+**Next.js** • **React Native** • Modern Full Stack Development
+
+---
+
+## 🎯 My Developer Goals
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🚀 Build impactful real-world applications            │
+│   📚 Continuously improve my technical skills            │
+│   💡 Solve challenging programming problems              │
+│   🤝 Collaborate with developers & teams                 │
+│   🌱 Keep learning modern technologies                   │
+│   💻 Grow as a professional Full Stack Developer         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in **learning, collaborating, and building something useful.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/varshitha-p-0217102a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://varshitha-pothamsetti.github.io/Portfolio-Website/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:pothamsettisatyavarshitha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+### ✨ Build • Learn • Create • Grow ✨
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
