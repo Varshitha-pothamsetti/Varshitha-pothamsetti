@@ -9,14 +9,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://varshitha-pothamsetti.github.io/Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:pothamsettisatyavarshitha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=varshitha-pothamsetti&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=varshitha-pothamsetti&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
@@ -24,21 +26,23 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Full Stack Developer from India** who enjoys building modern, responsive, and user-friendly applications.
+I'm a passionate **Full Stack Developer from India** and a B.Tech Information Technology student who enjoys building modern, scalable, and user-friendly applications.
 
-I love transforming ideas into real-world applications by combining **frontend development, backend engineering, databases, and problem-solving**.
+I love transforming ideas into real-world solutions by combining **frontend development, backend engineering, databases, APIs, and problem-solving**.
 
+- 🎓 B.Tech in **Information Technology**
+- 📊 **CGPA: 8.99 / 10**
+- 💻 Full Stack Development with **React.js, Node.js, Django & MongoDB**
+- 📱 Mobile Application Development with **React Native**
 - 🔭 Currently working on **Full Stack Development**
-- 🌱 Currently learning **React Native & Next.js**
-- 💻 Experienced with **React.js, Node.js, Django & MongoDB**
-- 🌐 Interested in **Web Development & Mobile Application Development**
-- 🤝 Open to collaborating on **Web & Mobile App projects**
-- 💬 Ask me about **JavaScript, React.js, Django & Full Stack Development**
-- ⚡ Fun fact: I enjoy turning ideas into **real-world applications** 💡
+- 🌱 Currently learning **Next.js & React Native**
+- 🤝 Open to collaborating on **Web & Mobile Application projects**
+- 🧠 Strong interest in **Data Structures, Algorithms & Problem Solving**
+- 💡 Passionate about creating **practical solutions for real-world problems**
 
 ---
 
-# 🧠 Technical Skills
+# 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -46,110 +50,196 @@ I love transforming ideas into real-world applications by combining **frontend d
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" alt="Programming Languages"/>
 </p>
 
-### 🎨 Frontend Development
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,django" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,django" alt="Backend"/>
 </p>
 
-### 🗄️ Database
+### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,linux" alt="Tools"/>
 </p>
 
 ---
 
-# 🚀 What I Build
+# 💼 Experience
 
-<table>
-<tr>
-<td width="50%">
+### 🚀 Full Stack Development & React Native Intern
 
-### 🌐 Web Applications
+**Technical Hub Private Limited**  
+📅 May 2026 – June 2026
 
-Modern, responsive and scalable web applications using React.js, JavaScript and backend technologies.
+- Developed web and mobile applications using **React, Express.js, MongoDB and React Native**.
+- Worked on full-stack application development and mobile-first experiences.
+- Collaborated with engineering teams to **test, debug and optimize application architecture**.
+- Applied software engineering practices to build **scalable and reusable components**.
+- Improved application reliability through testing, debugging and performance optimization.
 
-</td>
+### 🌐 Web Development Intern
 
-<td width="50%">
+**Technical Hub Private Limited**  
+📅 May 2025 – June 2025
 
-### 📱 Mobile Applications
-
-Cross-platform mobile applications using modern mobile development technologies.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Backend Systems
-
-REST APIs, server-side applications and database-driven systems.
-
-</td>
-
-<td width="50%">
-
-### 💡 Real-World Solutions
-
-Turning real-world problems and ideas into useful software solutions.
-
-</td>
-</tr>
-</table>
+- Developed responsive frontend interfaces using **HTML, CSS, JavaScript and React Native**.
+- Built mobile-friendly interfaces and optimized applications for different devices.
+- Participated in **Agile workflows, code reviews and system architecture discussions**.
+- Contributed to full-stack development projects and reusable UI components.
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
+
+## 🏫 Campus Connect
+
+### Full Stack Campus Management Platform
+
+A scalable platform designed to connect students with campus services and activities through a unified application.
+
+**Key Features**
+
+- 👥 Designed to support **1,000+ users**
+- 📱 Built using **React Native**
+- ⚙️ Developed backend services using **Node.js & Express.js**
+- 🗄️ Integrated **MongoDB**
+- 🔐 Implemented authentication using **JWT & bcrypt**
+- 📍 Developed **Lost & Found** functionality
+- 🛒 Added **Marketplace**
+- 🍴 Added **Canteen services**
+- 🤖 Integrated **AI-powered image similarity matching**
+- 🛡️ Implemented **content moderation**
+- ⚡ Optimized backend and database performance
+
+**Tech Stack**
+
+`React Native` `Node.js` `Express.js` `MongoDB` `REST API` `JWT` `bcrypt` `AI`
+
+---
+
+## 📋 Task Crew
+
+### Employee Productivity Dashboard
+
+A web-based productivity platform designed to help employees manage tasks, productivity and team activities.
+
+**Key Features**
+
+- 📋 Task Management
+- 📊 Productivity Tracking
+- 👥 Team Communication
+- 👤 Employee Profile Management
+- 📈 Productivity Analytics
+- 📱 Responsive user interface
+- 🧩 Reusable and modular components
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🎓 TechNova
+
+### Technology Learning Platform
+
+An interactive learning platform focused on quizzes, internships, learning resources and technology-based collaboration.
+
+**Key Features**
+
+- 📝 Technology & coding quizzes
+- 💼 Internship resources
+- 📚 Learning materials
+- 🤖 AI-powered collaboration
+- 🎯 Interactive learning experience
+- 📱 Responsive design
+- ⚡ User-friendly interface
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `React`
+
+---
+
+# 🧠 Coding & Problem Solving
 
 <div align="center">
 
-### 🚀 Building Real-World Applications
+<p>
+  <img src="https://img.shields.io/badge/CodeChef-400%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/LeetCode-260%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <img src="https://img.shields.io/badge/HackerRank-15%2B%20Badges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</p>
 
 </div>
 
-I enjoy creating projects that combine:
+### 🧩 Core Areas
 
-- 🎨 Clean and responsive user interfaces
-- ⚡ Efficient backend systems
-- 🔐 REST APIs and authentication
-- 🗄️ Database integration
-- 📱 Mobile-friendly experiences
-- 💡 Practical problem solving
+`Data Structures` `Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks` `SQL`
 
-<br>
+---
+
+# 🏅 Certifications
 
 <div align="center">
 
-<a href="https://github.com/varshitha-pothamsetti?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+| Certification | Organization |
+|:---|:---:|
+| 🐧 RH124 – Red Hat System Administration I | Red Hat |
+| ☁️ DO180 – Red Hat OpenShift Administration | Red Hat |
+| 🐙 GitHub Foundations | GitHub |
+| ☕ Java Foundations | Oracle Academy |
+| 🗄️ Database Management Systems | Technical Certification |
+| 🌐 HTML & CSS | Cisco Networking Academy |
+| 🐍 Python Essentials | Cisco Networking Academy |
+| ⚡ JavaScript Essentials | Cisco Networking Academy |
+| 💾 SQL – Basic | HackerRank |
+| 💾 SQL – Intermediate | HackerRank |
+| 📊 Data Analytics Job Simulation | Accenture |
+
+</div>
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/varshitha-pothamsetti">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
+<a href="https://github.com/varshitha-pothamsetti?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
 
----
+<br><br>
 
-# 📊 GitHub Statistics
+<img src="https://img.shields.io/github/followers/varshitha-pothamsetti?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=varshitha-pothamsetti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha-pothamsetti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://img.shields.io/github/commit-activity/y/varshitha-pothamsetti?style=for-the-badge&logo=github&label=Yearly%20Commits" alt="Yearly Commits"/>
 
 </div>
 
@@ -165,21 +255,29 @@ I enjoy creating projects that combine:
 
 ---
 
-# 📈 Contribution Activity
+# 💻 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshitha-pothamsetti&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<a href="https://github.com/varshitha-pothamsetti">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-</div>
+<a href="YOUR_LEETCODE_PROFILE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
----
+<a href="YOUR_CODECHEF_PROFILE_URL">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
 
-# 🏆 GitHub Achievements
+<a href="YOUR_GEEKSFORGEEKS_PROFILE_URL">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=varshitha-pothamsetti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies"/>
+<a href="YOUR_HACKERRANK_PROFILE_URL">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
 
 </div>
 
@@ -191,7 +289,7 @@ I enjoy creating projects that combine:
 
 <img src="https://skillicons.dev/icons?i=nextjs,react" alt="Currently Learning"/>
 
-### Next.js • React Native • Modern Full Stack Development
+### Next.js • React Native • Advanced Full Stack Development
 
 </div>
 
@@ -199,60 +297,30 @@ I enjoy creating projects that combine:
 
 # 🎯 Developer Goals
 
-<table>
+<table align="center">
 <tr>
-<td>
-
-🚀 Build impactful real-world applications
-
-</td>
-<td>
-
-📚 Continuously improve technical skills
-
-</td>
+<td align="center">🚀<br><b>Build</b><br>Real-World Applications</td>
+<td align="center">🧠<br><b>Improve</b><br>DSA & Problem Solving</td>
+<td align="center">📱<br><b>Master</b><br>Mobile Development</td>
 </tr>
 
 <tr>
-<td>
-
-💡 Solve challenging programming problems
-
-</td>
-<td>
-
-🤝 Collaborate with developers & teams
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🌱 Learn modern technologies
-
-</td>
-<td>
-
-💻 Grow as a professional Full Stack Developer
-
-</td>
+<td align="center">⚡<br><b>Learn</b><br>Modern Technologies</td>
+<td align="center">☁️<br><b>Explore</b><br>Cloud & Deployment</td>
+<td align="center">🤝<br><b>Contribute</b><br>Open Source</td>
 </tr>
 </table>
 
 ---
 
-# 💻 Development Philosophy
+# 📚 Education
 
-<div align="center">
+### 🎓 Aditya College of Engineering and Technology
 
-> **"Build something useful. Keep learning. Keep improving."**
+**Bachelor of Technology – Information Technology**
 
-<br>
-
-`Learn` → `Build` → `Solve` → `Improve` → `Repeat`
-
-</div>
+📅 2023 – 2027  
+📊 **CGPA: 8.99 / 10**
 
 ---
 
@@ -260,25 +328,25 @@ I enjoy creating projects that combine:
 
 <div align="center">
 
-I'm always interested in **learning, collaborating, and building something useful.**
+### 💬 Let's build something meaningful together!
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/varshitha-p-0217102a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://varshitha-pothamsetti.github.io/Portfolio-Website/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="mailto:pothamsettisatyavarshitha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <br><br>
 
-### ✨ Build • Learn • Create • Grow ✨
+### ✨ Learn • Build • Solve • Create • Grow ✨
 
 </div>
 
@@ -286,8 +354,8 @@ I'm always interested in **learning, collaborating, and building something usefu
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+⭐ **Thanks for visiting my GitHub profile!**
 
-⭐ Feel free to explore my repositories and connect with me.
+💻 *Turning ideas into real-world applications.*
 
 </div>
