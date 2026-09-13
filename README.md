@@ -320,7 +320,7 @@ An interactive learning platform focused on quizzes, internships, learning resou
 **Bachelor of Technology – Information Technology**
 
 📅 2023 – 2027  
-📊 **CGPA: 8.99 / 10**
+📊 **CGPA: 8.39 / 10**
 
 ---
 
